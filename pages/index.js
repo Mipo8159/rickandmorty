@@ -24,7 +24,7 @@ export default function Home(results) {
 	return (
 		<Flex direction='column' justify='center' align='center'>
 			<Head>
-				<title>Create Next App</title>
+				<title>Pickle rick</title>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 
